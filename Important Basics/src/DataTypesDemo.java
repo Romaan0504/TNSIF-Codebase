@@ -1,5 +1,6 @@
 
 public class DataTypesDemo {
+	
 	public static void main(String[] args) {
 		
 		int value1 = 9/2;  // integer division 
